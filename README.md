@@ -1,2 +1,3 @@
 # capstone-project-frontend
-capstone project frontend in Angular
+capstone project frontend (Angular)
+
